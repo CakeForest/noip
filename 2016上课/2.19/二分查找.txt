@@ -1,0 +1,9 @@
+
+FZOJ1393 二分查找http://fzoj.xndxfz.com/JudgeOnline/problem.php?id=1393
+FZOJ 1419一元三次方程求解 http://fzoj.xndxfz.com/JudgeOnline/problem.php?id=1419
+
+
+openjudge7940 查找最接近的元素 http://noi.openjudge.cn/ch0111/01/
+openjudge8211 派 http://noi.openjudge.cn/ch0111/05/
+openjudge8210 河中跳房子 http://noi.openjudge.cn/ch0111/10/
+openjudge8209 月度开销 http://noi.openjudge.cn/ch0111/06/

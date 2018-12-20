@@ -1,0 +1,39 @@
+#include<stdio.h>
+#include<stdlib.h>
+ 
+int main()
+{
+    float a,b,c;
+    printf("请输入a,b,c，中间用逗号隔开\n");
+    scanf("%f,%f,%f",&a,&b,&c);
+    if(a>b)
+    {
+           if(a>c)
+           {
+               printf("a大\n");
+           }
+           else
+           {
+               printf("c大\n");
+           }
+    }
+    else
+    {
+        if(b>c)
+        {
+            printf("b大\n");
+        }
+        else
+        {
+            if((a==b)+(b==c)==2)
+            {
+                 printf("三个数一样大\n");
+            }
+            else
+            {
+                 printf("c大\n"); 
+            }
+        }
+    }
+    system("pause");
+}

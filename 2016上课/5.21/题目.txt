@@ -1,0 +1,9 @@
+合并果子
+http://fz.openjudge.cn/tree/004/
+
+排序
+http://fz.openjudge.cn/tree/005/
+
+
+最小函数值
+http://fz.openjudge.cn/tree/006/

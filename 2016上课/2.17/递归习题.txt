@@ -1,0 +1,15 @@
+7592:求最大公约数问题 http://noi.openjudge.cn/ch0202/7592/
+
+1750:全排列 http://noi.openjudge.cn/ch0202/1750/
+
+fzoj1392 数组求和 http://fzoj.xndxfz.com/JudgeOnline/problem.php?id=1392
+
+1751:分解因数 http://noi.openjudge.cn/ch0202/1751/
+
+666:放苹果 http://noi.openjudge.cn/ch0202/666/
+
+8758:2的幂次方表示 http://noi.openjudge.cn/ch0202/8758/
+
+1696:逆波兰表达式 http://noi.openjudge.cn/ch0202/1696/
+
+fzoj1214 排序拓展 http://fzoj.xndxfz.com/JudgeOnline/problem.php?id=1214
